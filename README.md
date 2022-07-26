@@ -30,9 +30,15 @@ Job Description:
 
 1. [CVPR-2016] Ordinal Regression with Multiple Output CNN for Age Estimation
 
+What do I learn from this work: The better loss the better performance. It's a must to find the nature of the problem and choose a loss to train the neural network.
+
 2. Wide Residual Networks
 
+What do I learn from this work: The backward gradient sometimes may not update all the parameters of **depth** neural network. A wider one can make a good use of every gradient.
+
 3. [CVPR-2017] Predicting Ground-Level Scene Layout from Aerial Imagery
+
+What do I learn from this work: Use Spatial Transformer like network to learn the transform from aerial to ground to better extract the feature.
 
 **[Paper Reading]**
 
