@@ -43,3 +43,15 @@ What do I learn from this work: Use Spatial Transformer like network to learn th
 **[Paper Reading]**
 
 1. [CVPR-2022] ACPL: Anti-curriculum Pseudo-labelling for Semi-supervised Medical Image Classification
+
+## 2022-08-02
+
+Time: 2022-07-27 to 2022-08-01
+
+Job Description:
+
+**[Paper Implementation]**
+
+1. Implementation of Relation Networks for Object Detection
+
+What do I learn from this work: Relation Object Detection
