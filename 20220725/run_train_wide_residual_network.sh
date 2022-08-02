@@ -1,0 +1,1 @@
+python train_wide_residual_net.py --dataset cifar100 --layers 40 --widen-factor 4
