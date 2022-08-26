@@ -55,3 +55,17 @@ Job Description:
 1. Implementation of Relation Networks for Object Detection
 
 What do I learn from this work: Relation Object Detection
+Time: 2022-07-27 to 2022-08-01
+
+
+## 2022-08-09
+
+Time: 2022-08-02 to 2022-08-09
+
+Job Description:
+
+**[Paper Implementation]**
+
+1. Implementation of Relation Networks for Object Detection V2
+
+**[Paper Reading]**
