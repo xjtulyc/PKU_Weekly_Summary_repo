@@ -67,3 +67,29 @@ Job Description:
 **[Paper Reading]**
 
 1. Read 5 papers from CVPR2022 Oral
+
+## 2022-08-30
+
+Time: 2022-08-16 to 2022-08-30
+
+Job Description:
+
+**[Paper Reading]**
+
+1. Read 5 papers about backbone from CVPR2022
+
+## 2022-09-06
+
+Time: 2022-08-31 to 2022-09-06
+
+Job Description:
+
+**[Survey about Video Segmentation]**
+
+1. Read 16 papers on Video Segmentation
+
+2. Write a survey on Video Segmentation: Task and Performance Metric
+
+**[Paper Reading]**
+
+1. Read 5 papers from CVPR2022
